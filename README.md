@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Richard Moura 😁
+## Bem-vindo ao perfil do Richard Moura 😁
 
  <div>
    <a href="https://github.com/Richard-Moura">
